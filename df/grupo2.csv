@@ -1,0 +1,626 @@
+,CountryName,CountryCode,is_operational,OperationalFrom,amount
+0,United States,US,Operativa,1974-12-19,1
+1,United States,US,Operativa,1980-03-26,1
+2,United States,US,Operativa,1976-10-01,1
+3,United States,US,Operativa,1987-11-17,1
+4,United States,US,Operativa,1988-07-29,1
+5,United States,US,Operativa,1988-10-17,1
+6,United States,US,Operativa,1974-08-01,1
+7,United States,US,Operativa,1975-03-01,1
+8,United States,US,Operativa,1977-03-01,1
+9,United States,US,Operativa,1977-03-18,1
+10,United States,US,Operativa,1975-11-03,1
+11,United States,US,Operativa,1985-09-16,1
+12,United States,US,Operativa,1987-08-02,1
+13,United States,US,Operativa,1984-12-19,1
+14,United States,US,Operativa,1975-05-08,1
+15,United States,US,Operativa,1977-04-01,1
+16,United States,US,Operativa,1985-06-29,1
+17,United States,US,Operativa,1986-08-19,1
+18,United States,US,Operativa,1987-11-24,1
+19,United States,US,Operativa,1984-12-13,1
+20,United States,US,Operativa,1990-08-13,1
+21,United States,US,Operativa,1993-08-03,1
+22,United States,US,Operativa,1974-07-01,1
+23,United States,US,Operativa,1978-07-31,1
+24,United States,US,Operativa,1985-05-07,1
+25,United States,US,Operativa,1986-03-13,1
+26,United States,US,Operativa,1975-08-28,1
+27,United States,US,Operativa,1978-07-01,1
+28,United States,US,Operativa,1970-06-09,1
+29,United States,US,Operativa,1971-11-16,1
+30,United States,US,Operativa,1975-02-01,1
+31,United States,US,Operativa,1988-01-23,1
+32,United States,US,Operativa,1977-12-01,1
+33,United States,US,Operativa,1981-07-30,1
+34,United States,US,Operativa,1975-07-28,1
+35,United States,US,Operativa,1985-07-01,1
+36,United States,US,Operativa,1971-03-07,1
+37,United States,US,Operativa,1975-12-31,1
+38,United States,US,Operativa,1979-09-05,1
+39,United States,US,Operativa,1986-12-20,1
+40,United States,US,Operativa,1974-08-01,1
+41,United States,US,Operativa,1976-08-30,1
+42,United States,US,Operativa,1984-01-01,1
+43,United States,US,Operativa,1984-10-19,1
+44,United States,US,Operativa,1986-02-01,1
+45,United States,US,Operativa,1990-01-08,1
+46,United States,US,Operativa,1981-12-01,1
+47,United States,US,Operativa,1984-03-01,1
+48,United States,US,Operativa,1975-12-26,1
+49,United States,US,Operativa,1986-04-23,1
+50,United States,US,Operativa,1971-06-30,1
+51,United States,US,Operativa,1969-12-01,1
+52,United States,US,Operativa,1988-03-11,1
+53,United States,US,Operativa,1978-06-06,1
+54,United States,US,Operativa,1980-12-14,1
+55,United States,US,Operativa,1973-07-15,1
+56,United States,US,Operativa,1974-09-09,1
+57,United States,US,Operativa,1974-12-16,1
+58,United States,US,Operativa,1971-12-31,1
+59,United States,US,Operativa,1986-01-28,1
+60,United States,US,Operativa,1986-09-19,1
+61,United States,US,Operativa,1988-01-08,1
+62,United States,US,Operativa,1974-07-05,1
+63,United States,US,Operativa,1974-12-23,1
+64,United States,US,Operativa,1987-11-18,1
+65,United States,US,Operativa,1972-12-01,1
+66,United States,US,Operativa,1970-12-21,1
+67,United States,US,Operativa,1972-10-01,1
+68,United States,US,Operativa,1973-12-16,1
+69,United States,US,Operativa,1974-12-21,1
+70,United States,US,Operativa,1973-02-18,1
+71,United States,US,Operativa,1973-03-10,1
+72,United States,US,Operativa,1970-07-01,1
+73,United States,US,Operativa,1986-06-16,1
+74,United States,US,Operativa,1977-06-30,1
+75,United States,US,Operativa,1981-10-13,1
+76,United States,US,Operativa,1990-08-19,1
+77,United States,US,Operativa,1981-07-01,1
+78,United States,US,Operativa,1982-06-01,1
+79,United States,US,Operativa,1987-05-02,1
+80,United States,US,Operativa,1988-08-25,1
+81,United States,US,Operativa,1989-06-19,1
+82,United States,US,Operativa,1976-12-21,1
+83,United States,US,Operativa,1983-08-08,1
+84,United States,US,Operativa,1984-01-01,1
+85,United States,US,Operativa,1972-12-22,1
+86,United States,US,Operativa,1973-05-01,1
+87,United States,US,Operativa,1983-06-08,1
+88,United States,US,Operativa,1985-02-12,1
+89,United States,US,Operativa,1974-09-02,1
+90,United States,US,Operativa,1972-12-14,1
+91,United States,US,Operativa,1973-09-07,1
+92,United States,US,Operativa,1987-06-01,1
+93,United States,US,Operativa,1989-05-20,1
+94,United States,US,Operativa,1985-09-24,1
+95,United States,US,Operativa,1996-05-27,1
+96,United States,US,Operativa,2016-10-19,1
+97,United States,US,Operativa,1985-09-03,1
+98,United States,US,No operativa,1963-03-29,1
+99,United States,US,No operativa,1965-09-01,1
+100,United States,US,No operativa,1963-12-18,1
+101,United States,US,No operativa,1977-03-13,1
+102,United States,US,No operativa,1960-07-04,1
+103,United States,US,No operativa,1964-07-01,1
+104,United States,US,No operativa,1966-08-07,1
+105,United States,US,No operativa,1973-09-26,1
+106,United States,US,No operativa,1979-07-01,1
+107,United States,US,No operativa,1957-10-19,1
+108,United States,US,No operativa,1968-01-01,1
+109,United States,US,No operativa,1963-11-01,1
+110,United States,US,No operativa,1963-08-01,1
+111,United States,US,No operativa,1962-10-01,1
+112,United States,US,No operativa,1974-06-16,1
+113,United States,US,No operativa,1969-11-07,1
+114,United States,US,No operativa,1972-12-28,1
+115,United States,US,No operativa,1971-03-01,1
+116,United States,US,No operativa,1969-12-01,1
+117,United States,US,No operativa,1966-08-01,1
+118,United States,US,No operativa,1967-06-01,1
+119,United States,US,No operativa,1963-11-01,1
+120,United States,US,No operativa,1975-04-17,1
+121,United States,US,No operativa,1968-01-01,1
+122,United States,US,No operativa,1983-08-08,1
+123,United States,US,No operativa,1984-04-01,1
+124,United States,US,No operativa,1967-03-01,1
+125,United States,US,No operativa,1958-05-26,1
+126,United States,US,No operativa,1986-08-01,1
+127,United States,US,No operativa,,1
+128,United States,US,No operativa,,1
+129,United States,US,No operativa,1978-12-30,1
+130,United States,US,No operativa,1976-05-20,1
+131,United States,US,No operativa,1972-11-30,1
+132,United States,US,No operativa,,1
+133,United States,US,No operativa,,1
+134,United States,US,No operativa,1961-07-01,1
+135,United States,US,No operativa,1973-12-31,1
+136,United States,US,No operativa,1974-09-17,1
+137,China,CN,Operativa,2015-12-25,1
+138,China,CN,Operativa,2016-08-12,1
+139,China,CN,Operativa,1994-02-01,1
+140,China,CN,Operativa,1994-05-06,1
+141,China,CN,Operativa,2016-01-01,1
+142,China,CN,Operativa,2016-10-01,1
+143,China,CN,Operativa,2014-12-15,1
+144,China,CN,Operativa,2015-02-12,1
+145,China,CN,Operativa,2014-11-22,1
+146,China,CN,Operativa,2015-10-16,1
+147,China,CN,Operativa,2016-10-24,1
+148,China,CN,Operativa,2017-09-17,1
+149,China,CN,Operativa,2018-10-22,1
+150,China,CN,Operativa,2019-01-09,1
+151,China,CN,Operativa,2013-06-06,1
+152,China,CN,Operativa,2014-05-13,1
+153,China,CN,Operativa,2015-08-16,1
+154,China,CN,Operativa,2016-06-08,1
+155,China,CN,Operativa,2002-05-28,1
+156,China,CN,Operativa,2003-01-08,1
+157,China,CN,Operativa,2010-09-15,1
+158,China,CN,Operativa,2011-08-07,1
+159,China,CN,Operativa,2013-04-15,1
+160,China,CN,Operativa,2014-05-04,1
+161,China,CN,Operativa,2015-06-10,1
+162,China,CN,Operativa,2016-07-21,1
+163,China,CN,Operativa,1994-04-01,1
+164,China,CN,Operativa,2002-04-15,1
+165,China,CN,Operativa,2004-05-03,1
+166,China,CN,Operativa,2010-10-05,1
+167,China,CN,Operativa,2011-12-30,1
+168,China,CN,Operativa,2002-12-31,1
+169,China,CN,Operativa,2003-07-24,1
+170,China,CN,Operativa,2018-09-21,1
+171,China,CN,Operativa,2018-11-05,1
+172,China,CN,Operativa,2018-12-13,1
+173,China,CN,Operativa,2007-05-17,1
+174,China,CN,Operativa,2007-08-16,1
+175,China,CN,Operativa,2018-02-14,1
+176,China,CN,Operativa,2018-12-22,1
+177,China,CN,Operativa,2014-03-25,1
+178,China,CN,Operativa,2015-06-05,1
+179,China,CN,Operativa,2016-01-01,1
+180,China,CN,Operativa,2017-03-15,1
+181,China,CN,Operativa,2018-07-12,1
+182,China,CN,No operativa,,1
+183,China,CN,No operativa,,1
+184,China,CN,No operativa,,1
+185,China,CN,No operativa,,1
+186,China,CN,No operativa,,1
+187,China,CN,No operativa,,1
+188,China,CN,No operativa,,1
+189,China,CN,No operativa,,1
+190,China,CN,No operativa,,1
+191,China,CN,No operativa,,1
+192,China,CN,No operativa,,1
+193,China,CN,No operativa,,1
+194,China,CN,No operativa,,1
+195,China,CN,No operativa,,1
+196,China,CN,No operativa,,1
+197,China,CN,No operativa,,1
+198,China,CN,No operativa,,1
+199,China,CN,No operativa,,1
+200,China,CN,No operativa,,1
+201,China,CN,No operativa,,1
+202,China,CN,No operativa,,1
+203,China,CN,No operativa,,1
+204,China,CN,No operativa,,1
+205,China,CN,No operativa,,1
+206,China,CN,No operativa,,1
+207,China,CN,No operativa,,1
+208,China,CN,No operativa,,1
+209,China,CN,No operativa,,1
+210,China,CN,No operativa,,1
+211,China,CN,No operativa,,1
+212,China,CN,No operativa,,1
+213,China,CN,No operativa,,1
+214,China,CN,No operativa,,1
+215,China,CN,No operativa,,1
+216,China,CN,No operativa,,1
+217,China,CN,No operativa,,1
+218,China,CN,No operativa,,1
+219,China,CN,No operativa,,1
+220,China,CN,No operativa,,1
+221,China,CN,No operativa,,1
+222,China,CN,No operativa,,1
+223,China,CN,No operativa,,1
+224,China,CN,No operativa,,1
+225,China,CN,No operativa,,1
+226,China,CN,No operativa,,1
+227,China,CN,No operativa,,1
+228,France,FR,Operativa,1988-06-01,1
+229,France,FR,Operativa,1989-01-01,1
+230,France,FR,Operativa,1981-12-01,1
+231,France,FR,Operativa,1983-02-01,1
+232,France,FR,Operativa,1983-11-14,1
+233,France,FR,Operativa,1983-10-01,1
+234,France,FR,Operativa,1979-03-01,1
+235,France,FR,Operativa,1979-03-01,1
+236,France,FR,Operativa,1979-07-01,1
+237,France,FR,Operativa,1980-01-03,1
+238,France,FR,Operativa,1987-04-01,1
+239,France,FR,Operativa,1988-02-01,1
+240,France,FR,Operativa,1991-02-01,1
+241,France,FR,Operativa,1992-01-01,1
+242,France,FR,Operativa,1984-02-01,1
+243,France,FR,Operativa,1984-08-01,1
+244,France,FR,Operativa,1987-03-04,1
+245,France,FR,Operativa,1988-04-01,1
+246,France,FR,Operativa,2000-05-15,1
+247,France,FR,Operativa,2000-09-29,1
+248,France,FR,Operativa,2002-01-29,1
+249,France,FR,Operativa,2002-04-23,1
+250,France,FR,Operativa,1984-04-02,1
+251,France,FR,Operativa,1985-04-01,1
+252,France,FR,Operativa,1984-09-10,1
+253,France,FR,Operativa,1985-02-11,1
+254,France,FR,Operativa,1980-09-10,1
+255,France,FR,Operativa,1981-02-16,1
+256,France,FR,Operativa,1981-05-27,1
+257,France,FR,Operativa,1981-11-20,1
+258,France,FR,Operativa,1978-01-01,1
+259,France,FR,Operativa,1978-04-01,1
+260,France,FR,Operativa,1986-12-01,1
+261,France,FR,Operativa,1987-03-09,1
+262,France,FR,Operativa,1991-02-01,1
+263,France,FR,Operativa,1994-03-04,1
+264,France,FR,Operativa,1980-11-25,1
+265,France,FR,Operativa,1980-12-01,1
+266,France,FR,Operativa,1981-06-01,1
+267,France,FR,Operativa,1981-10-01,1
+268,France,FR,Operativa,1985-01-15,1
+269,France,FR,Operativa,1985-10-25,1
+270,France,FR,Operativa,1988-02-24,1
+271,France,FR,Operativa,1989-05-01,1
+272,France,FR,Operativa,1985-12-01,1
+273,France,FR,Operativa,1985-12-01,1
+274,France,FR,Operativa,1986-02-01,1
+275,France,FR,Operativa,1986-06-01,1
+276,France,FR,Operativa,1990-12-01,1
+277,France,FR,Operativa,1992-11-01,1
+278,France,FR,Operativa,1986-05-01,1
+279,France,FR,Operativa,1987-03-01,1
+280,France,FR,Operativa,1983-08-01,1
+281,France,FR,Operativa,1983-08-01,1
+282,France,FR,Operativa,1980-12-01,1
+283,France,FR,Operativa,1980-12-01,1
+284,France,FR,Operativa,1981-05-11,1
+285,France,FR,Operativa,1981-11-01,1
+286,France,FR,No operativa,1972-07-01,1
+287,France,FR,No operativa,1964-02-01,1
+288,France,FR,No operativa,1965-02-24,1
+289,France,FR,No operativa,1966-08-04,1
+290,France,FR,No operativa,1967-04-15,1
+291,France,FR,No operativa,1968-06-01,1
+292,France,FR,No operativa,,1
+293,France,FR,No operativa,1959-04-22,1
+294,France,FR,No operativa,1960-04-04,1
+295,France,FR,No operativa,,1
+296,France,FR,No operativa,1974-07-14,1
+297,France,FR,No operativa,1969-06-01,1
+298,France,FR,No operativa,1971-11-01,1
+299,France,FR,No operativa,1986-12-01,1
+300,Japan,JP,Operativa,1982-04-20,1
+301,Japan,JP,Operativa,1984-02-03,1
+302,Japan,JP,Operativa,1985-06-21,1
+303,Japan,JP,Operativa,1987-08-25,1
+304,Japan,JP,Operativa,1981-03-30,1
+305,Japan,JP,Operativa,1994-03-18,1
+306,Japan,JP,Operativa,1997-07-25,1
+307,Japan,JP,Operativa,1987-08-28,1
+308,Japan,JP,Operativa,1993-09-03,1
+309,Japan,JP,Operativa,2005-01-18,1
+310,Japan,JP,Operativa,2005-12-08,1
+311,Japan,JP,Operativa,1994-12-15,1
+312,Japan,JP,Operativa,1985-09-18,1
+313,Japan,JP,Operativa,1990-09-28,1
+314,Japan,JP,Operativa,1993-08-11,1
+315,Japan,JP,Operativa,1994-08-11,1
+316,Japan,JP,Operativa,1990-04-10,1
+317,Japan,JP,Operativa,1996-11-07,1
+318,Japan,JP,Operativa,1997-07-02,1
+319,Japan,JP,Operativa,1976-12-01,1
+320,Japan,JP,Operativa,1991-12-18,1
+321,Japan,JP,Operativa,1993-02-02,1
+322,Japan,JP,Operativa,1984-06-01,1
+323,Japan,JP,Operativa,1995-07-28,1
+324,Japan,JP,Operativa,2002-01-30,1
+325,Japan,JP,Operativa,1984-07-04,1
+326,Japan,JP,Operativa,1985-11-28,1
+327,Japan,JP,Operativa,1993-07-30,1
+328,Japan,JP,Operativa,2006-03-15,1
+329,Japan,JP,Operativa,1989-02-10,1
+330,Japan,JP,Operativa,1974-11-14,1
+331,Japan,JP,Operativa,1975-11-14,1
+332,Japan,JP,Operativa,1985-01-17,1
+333,Japan,JP,Operativa,1985-06-05,1
+334,Japan,JP,Operativa,1978-11-28,1
+335,Japan,JP,Operativa,1989-06-22,1
+336,Japan,JP,Operativa,1991-04-12,1
+337,Japan,JP,Operativa,2009-12-22,1
+338,Japan,JP,Operativa,1987-02-17,1
+339,Japan,JP,No operativa,1979-03-20,1
+340,Japan,JP,No operativa,1971-03-26,1
+341,Japan,JP,No operativa,1974-07-18,1
+342,Japan,JP,No operativa,1976-03-27,1
+343,Japan,JP,No operativa,1978-10-12,1
+344,Japan,JP,No operativa,1978-04-18,1
+345,Japan,JP,No operativa,1979-10-24,1
+346,Japan,JP,No operativa,1975-10-15,1
+347,Japan,JP,No operativa,1976-03-17,1
+348,Japan,JP,No operativa,1978-11-29,1
+349,Japan,JP,No operativa,,1
+350,Japan,JP,No operativa,,1
+351,Japan,JP,No operativa,,1
+352,Japan,JP,No operativa,,1
+353,Japan,JP,No operativa,1977-09-30,1
+354,Japan,JP,No operativa,1982-03-19,1
+355,Japan,JP,No operativa,1965-03-15,1
+356,Japan,JP,No operativa,,1
+357,Japan,JP,No operativa,,1
+358,Japan,JP,No operativa,1970-11-28,1
+359,Japan,JP,No operativa,1972-07-25,1
+360,Japan,JP,No operativa,,1
+361,Japan,JP,No operativa,1979-03-27,1
+362,Japan,JP,No operativa,1979-12-05,1
+363,Japan,JP,No operativa,,1
+364,Japan,JP,No operativa,,1
+365,Japan,JP,No operativa,1974-03-29,1
+366,Japan,JP,No operativa,,1
+367,Japan,JP,No operativa,1966-07-25,1
+368,Japan,JP,No operativa,1970-03-14,1
+369,Japan,JP,No operativa,,1
+370,Japan,JP,No operativa,,1
+371,Russian Federation,RU,Operativa,1986-05-23,1
+372,Russian Federation,RU,Operativa,1988-01-18,1
+373,Russian Federation,RU,Operativa,1989-04-08,1
+374,Russian Federation,RU,Operativa,1993-12-22,1
+375,Russian Federation,RU,Operativa,1981-11-01,1
+376,Russian Federation,RU,Operativa,2016-10-31,1
+377,Russian Federation,RU,Operativa,1975-02-01,1
+378,Russian Federation,RU,Operativa,1976-02-01,1
+379,Russian Federation,RU,Operativa,1977-01-01,1
+380,Russian Federation,RU,Operativa,1985-06-12,1
+381,Russian Federation,RU,Operativa,1987-03-03,1
+382,Russian Federation,RU,Operativa,2005-11-08,1
+383,Russian Federation,RU,Operativa,2012-12-25,1
+384,Russian Federation,RU,Operativa,1973-12-28,1
+385,Russian Federation,RU,Operativa,1975-02-21,1
+386,Russian Federation,RU,Operativa,1982-12-03,1
+387,Russian Federation,RU,Operativa,1984-12-06,1
+388,Russian Federation,RU,Operativa,1977-10-12,1
+389,Russian Federation,RU,Operativa,1979-08-17,1
+390,Russian Federation,RU,Operativa,1984-03-30,1
+391,Russian Federation,RU,Operativa,1986-02-05,1
+392,Russian Federation,RU,Operativa,2018-10-29,1
+393,Russian Federation,RU,Operativa,1976-02-11,1
+394,Russian Federation,RU,Operativa,1980-06-29,1
+395,Russian Federation,RU,Operativa,1981-08-29,1
+396,Russian Federation,RU,Operativa,2017-02-27,1
+397,Russian Federation,RU,Operativa,1973-03-24,1
+398,Russian Federation,RU,Operativa,1981-02-20,1
+399,Russian Federation,RU,Operativa,2001-12-25,1
+400,Russian Federation,RU,Operativa,2010-12-10,1
+401,Russian Federation,RU,Operativa,2015-09-17,1
+402,Russian Federation,RU,Operativa,2018-09-28,1
+403,Russian Federation,RU,Operativa,1983-09-30,1
+404,Russian Federation,RU,Operativa,1985-07-02,1
+405,Russian Federation,RU,Operativa,1990-10-12,1
+406,Russian Federation,RU,No operativa,,1
+407,Russian Federation,RU,No operativa,,1
+408,Russian Federation,RU,No operativa,1954-12-01,1
+409,Russian Federation,RU,No operativa,,1
+410,Russian Federation,RU,No operativa,1964-04-26,1
+411,Russian Federation,RU,No operativa,1969-12-01,1
+412,Russian Federation,RU,No operativa,,1
+413,Russian Federation,RU,No operativa,1974-04-01,1
+414,Russian Federation,RU,No operativa,,1
+415,Russian Federation,RU,No operativa,,1
+416,Russian Federation,RU,No operativa,,1
+417,Russian Federation,RU,No operativa,1974-11-01,1
+418,Russian Federation,RU,No operativa,,1
+419,Russian Federation,RU,No operativa,,1
+420,Russian Federation,RU,No operativa,,1
+421,Russian Federation,RU,No operativa,1964-12-31,1
+422,Russian Federation,RU,No operativa,1970-04-14,1
+423,Russian Federation,RU,No operativa,1972-06-29,1
+424,Russian Federation,RU,No operativa,,1
+425,Russian Federation,RU,No operativa,,1
+426,Russian Federation,RU,No operativa,,1
+427,United Kingdom,GB,Operativa,1985-04-01,1
+428,United Kingdom,GB,Operativa,1989-04-01,1
+429,United Kingdom,GB,Operativa,1989-04-01,1
+430,United Kingdom,GB,Operativa,1989-04-01,1
+431,United Kingdom,GB,Operativa,1989-04-01,1
+432,United Kingdom,GB,Operativa,1989-04-01,1
+433,United Kingdom,GB,Operativa,1989-04-01,1
+434,United Kingdom,GB,Operativa,1989-04-01,1
+435,United Kingdom,GB,Operativa,1978-10-02,1
+436,United Kingdom,GB,Operativa,1976-09-27,1
+437,United Kingdom,GB,Operativa,1976-02-06,1
+438,United Kingdom,GB,Operativa,1977-03-31,1
+439,United Kingdom,GB,Operativa,1995-09-22,1
+440,United Kingdom,GB,Operativa,1988-05-25,1
+441,United Kingdom,GB,Operativa,1989-02-03,1
+442,United Kingdom,GB,No operativa,1962-06-12,1
+443,United Kingdom,GB,No operativa,1962-10-20,1
+444,United Kingdom,GB,No operativa,1962-07-01,1
+445,United Kingdom,GB,No operativa,1962-11-12,1
+446,United Kingdom,GB,No operativa,1956-10-01,1
+447,United Kingdom,GB,No operativa,1957-02-01,1
+448,United Kingdom,GB,No operativa,1958-05-01,1
+449,United Kingdom,GB,No operativa,1959-04-01,1
+450,United Kingdom,GB,No operativa,1959-03-01,1
+451,United Kingdom,GB,No operativa,1959-08-01,1
+452,United Kingdom,GB,No operativa,1959-12-01,1
+453,United Kingdom,GB,No operativa,1960-03-01,1
+454,United Kingdom,GB,No operativa,1962-10-01,1
+455,United Kingdom,GB,No operativa,1976-07-01,1
+456,United Kingdom,GB,No operativa,1965-10-28,1
+457,United Kingdom,GB,No operativa,1965-12-30,1
+458,United Kingdom,GB,No operativa,1965-03-30,1
+459,United Kingdom,GB,No operativa,1965-05-05,1
+460,United Kingdom,GB,No operativa,,1
+461,United Kingdom,GB,No operativa,,1
+462,United Kingdom,GB,No operativa,1964-02-05,1
+463,United Kingdom,GB,No operativa,1964-07-01,1
+464,United Kingdom,GB,No operativa,1967-12-31,1
+465,United Kingdom,GB,No operativa,1968-09-30,1
+466,United Kingdom,GB,No operativa,1966-03-25,1
+467,United Kingdom,GB,No operativa,1966-09-15,1
+468,United Kingdom,GB,No operativa,,1
+469,United Kingdom,GB,No operativa,,1
+470,United Kingdom,GB,No operativa,1965-03-24,1
+471,United Kingdom,GB,No operativa,1965-03-24,1
+472,United Kingdom,GB,No operativa,1963-03-01,1
+473,United Kingdom,GB,No operativa,1968-01-01,1
+474,United Kingdom,GB,No operativa,1971-11-01,1
+475,United Kingdom,GB,No operativa,1972-01-03,1
+476,"Korea, Republic of",KR,Operativa,1986-08-25,1
+477,"Korea, Republic of",KR,Operativa,1987-06-10,1
+478,"Korea, Republic of",KR,Operativa,1995-03-31,1
+479,"Korea, Republic of",KR,Operativa,1996-01-01,1
+480,"Korea, Republic of",KR,Operativa,2002-05-21,1
+481,"Korea, Republic of",KR,Operativa,2002-12-24,1
+482,"Korea, Republic of",KR,Operativa,1988-09-10,1
+483,"Korea, Republic of",KR,Operativa,1989-09-30,1
+484,"Korea, Republic of",KR,Operativa,1998-08-11,1
+485,"Korea, Republic of",KR,Operativa,1999-12-31,1
+486,"Korea, Republic of",KR,Operativa,2004-07-29,1
+487,"Korea, Republic of",KR,Operativa,2005-04-22,1
+488,"Korea, Republic of",KR,Operativa,1983-07-25,1
+489,"Korea, Republic of",KR,Operativa,1985-09-30,1
+490,"Korea, Republic of",KR,Operativa,1986-04-29,1
+491,"Korea, Republic of",KR,Operativa,2012-07-31,1
+492,"Korea, Republic of",KR,Operativa,2015-07-24,1
+493,"Korea, Republic of",KR,Operativa,2011-02-28,1
+494,"Korea, Republic of",KR,Operativa,2012-07-20,1
+495,"Korea, Republic of",KR,Operativa,2016-12-20,1
+496,"Korea, Republic of",KR,Operativa,1983-04-22,1
+497,"Korea, Republic of",KR,Operativa,1997-07-01,1
+498,"Korea, Republic of",KR,Operativa,1998-07-01,1
+499,"Korea, Republic of",KR,Operativa,1999-10-01,1
+500,"Korea, Republic of",KR,No operativa,1978-04-29,1
+501,"Korea, Republic of",KR,No operativa,,1
+502,"Korea, Republic of",KR,No operativa,,1
+503,"Korea, Republic of",KR,No operativa,,1
+504,"Korea, Republic of",KR,No operativa,,1
+505,"Korea, Republic of",KR,No operativa,,1
+506,"Korea, Republic of",KR,No operativa,,1
+507,"Korea, Republic of",KR,No operativa,,1
+508,"Korea, Republic of",KR,No operativa,,1
+509,"Korea, Republic of",KR,No operativa,,1
+510,"Korea, Republic of",KR,No operativa,,1
+511,"Korea, Republic of",KR,No operativa,,1
+512,"Korea, Republic of",KR,No operativa,,1
+513,"Korea, Republic of",KR,No operativa,,1
+514,"Korea, Republic of",KR,No operativa,,1
+515,"Korea, Republic of",KR,No operativa,,1
+516,"Korea, Republic of",KR,No operativa,,1
+517,"Korea, Republic of",KR,No operativa,,1
+518,"Korea, Republic of",KR,No operativa,,1
+519,"Korea, Republic of",KR,No operativa,,1
+520,India,IN,Operativa,2000-11-16,1
+521,India,IN,Operativa,2000-03-16,1
+522,India,IN,Operativa,2007-05-06,1
+523,India,IN,Operativa,2011-01-20,1
+524,India,IN,Operativa,1993-05-06,1
+525,India,IN,Operativa,1995-09-01,1
+526,India,IN,Operativa,1984-01-27,1
+527,India,IN,Operativa,1986-03-21,1
+528,India,IN,Operativa,2014-12-31,1
+529,India,IN,Operativa,2017-03-31,1
+530,India,IN,Operativa,1991-01-01,1
+531,India,IN,Operativa,1992-07-01,1
+532,India,IN,Operativa,1973-12-16,1
+533,India,IN,Operativa,1981-04-01,1
+534,India,IN,Operativa,2000-06-01,1
+535,India,IN,Operativa,2000-12-23,1
+536,India,IN,Operativa,2010-02-04,1
+537,India,IN,Operativa,2010-03-31,1
+538,India,IN,Operativa,1969-10-28,1
+539,India,IN,Operativa,1969-10-28,1
+540,India,IN,Operativa,2006-08-18,1
+541,India,IN,Operativa,2005-09-12,1
+542,India,IN,No operativa,,1
+543,India,IN,No operativa,,1
+544,India,IN,No operativa,,1
+545,India,IN,No operativa,,1
+546,India,IN,No operativa,,1
+547,India,IN,No operativa,,1
+548,India,IN,No operativa,,1
+549,India,IN,No operativa,,1
+550,India,IN,No operativa,,1
+551,India,IN,No operativa,,1
+552,India,IN,No operativa,,1
+553,India,IN,No operativa,,1
+554,India,IN,No operativa,,1
+555,India,IN,No operativa,,1
+556,India,IN,No operativa,,1
+557,India,IN,No operativa,,1
+558,India,IN,No operativa,,1
+559,India,IN,No operativa,,1
+560,India,IN,No operativa,,1
+561,Germany,DE,Operativa,1986-12-22,1
+562,Germany,DE,Operativa,1988-06-20,1
+563,Germany,DE,Operativa,1985-02-01,1
+564,Germany,DE,Operativa,1985-01-18,1
+565,Germany,DE,Operativa,1988-04-09,1
+566,Germany,DE,Operativa,1989-04-15,1
+567,Germany,DE,Operativa,1985-04-18,1
+568,Germany,DE,No operativa,1975-02-26,1
+569,Germany,DE,No operativa,1977-01-31,1
+570,Germany,DE,No operativa,1977-02-09,1
+571,Germany,DE,No operativa,1982-06-17,1
+572,Germany,DE,No operativa,1974-07-12,1
+573,Germany,DE,No operativa,1975-04-16,1
+574,Germany,DE,No operativa,1978-05-01,1
+575,Germany,DE,No operativa,1979-11-01,1
+576,Germany,DE,No operativa,1989-11-01,1
+577,Germany,DE,No operativa,1970-08-02,1
+578,Germany,DE,No operativa,1967-04-12,1
+579,Germany,DE,No operativa,1984-07-19,1
+580,Germany,DE,No operativa,1979-03-21,1
+581,Germany,DE,No operativa,1969-05-19,1
+582,Germany,DE,No operativa,1962-02-01,1
+583,Germany,DE,No operativa,1966-12-19,1
+584,Germany,DE,No operativa,1979-03-03,1
+585,Germany,DE,No operativa,1984-03-28,1
+586,Germany,DE,No operativa,1968-10-01,1
+587,Germany,DE,No operativa,1987-08-18,1
+588,Germany,DE,No operativa,1976-12-01,1
+589,Germany,DE,No operativa,1973-01-01,1
+590,Germany,DE,No operativa,1969-03-31,1
+591,Germany,DE,No operativa,1980-03-26,1
+592,Germany,DE,No operativa,1966-10-11,1
+593,Germany,DE,No operativa,1972-05-19,1
+594,Germany,DE,No operativa,1987-06-01,1
+595,Germany,DE,No operativa,1979-09-06,1
+596,Germany,DE,No operativa,1975-11-11,1
+597,Canada,CA,Operativa,1977-09-01,1
+598,Canada,CA,Operativa,1977-09-01,1
+599,Canada,CA,Operativa,1978-02-01,1
+600,Canada,CA,Operativa,1979-01-18,1
+601,Canada,CA,Operativa,1985-03-01,1
+602,Canada,CA,Operativa,1984-09-14,1
+603,Canada,CA,Operativa,1986-04-10,1
+604,Canada,CA,Operativa,1987-05-22,1
+605,Canada,CA,Operativa,1992-11-14,1
+606,Canada,CA,Operativa,1990-10-09,1
+607,Canada,CA,Operativa,1993-02-14,1
+608,Canada,CA,Operativa,1993-06-14,1
+609,Canada,CA,Operativa,1971-07-29,1
+610,Canada,CA,Operativa,1973-06-17,1
+611,Canada,CA,Operativa,1983-05-10,1
+612,Canada,CA,Operativa,1984-02-01,1
+613,Canada,CA,Operativa,1985-01-01,1
+614,Canada,CA,Operativa,1986-02-28,1
+615,Canada,CA,Operativa,1983-02-01,1
+616,Canada,CA,No operativa,,1
+617,Canada,CA,No operativa,,1
+618,Canada,CA,No operativa,1968-09-26,1
+619,Canada,CA,No operativa,1972-05-01,1
+620,Canada,CA,No operativa,1983-10-01,1
+621,Canada,CA,No operativa,1971-12-30,1
+622,Canada,CA,No operativa,1972-06-01,1
+623,Canada,CA,No operativa,,1
+624,Canada,CA,No operativa,1962-10-01,1
